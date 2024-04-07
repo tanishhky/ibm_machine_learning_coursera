@@ -7,7 +7,7 @@
 ## Q2. (True/False) The “vanishing gradient” problem can be solved using a different activation function.
 `True`
 ## Q3. (True/False) Every node in a neural network has an activation function.
-`True`
+`False`
 
 ## Q4. These are all activation functions except:
 `Leaky hyperbolic tangent`
