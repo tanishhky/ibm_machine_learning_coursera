@@ -53,4 +53,4 @@
 ## You  are evaluating a binary classifier. There are 50 positive outcomes in  the test data, and 100 observations. Using a 50% threshold, the  classifier predicts 40 positive outcomes, of which 10 are incorrect.
 
 ## The threshold is now increased further, to 70%. Which of the following statements is TRUE?
-    The Recall of the classifier would increase or remain the same.
+    The Precision of the classifier would increase or remain the same.
